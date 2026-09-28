@@ -1,0 +1,8 @@
+# Co-author information, used on the publications page to underline and link
+# the co-authors of your papers. Keys are lower-cased last names without accents.
+#
+# Example:
+# "smith":
+#   - firstname: ["John", "J."]
+#     url: https://example.com
+{}

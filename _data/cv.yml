@@ -1,0 +1,22 @@
+cv:
+  name: Fuke Wang
+  label: System Identification · Time Series Forecasting
+  email: wfk_gfkd@qq.com
+  location: ""
+  image: ""
+  summary: Research interests include system identification and time series forecasting.
+
+  social_networks:
+    - network: GitHub
+      username: FukeWang
+
+  address:
+    street: ""
+    city: ""
+    region: ""
+    postalCode: ""
+    countryCode: ""
+
+  sections:
+    Education: []
+    Experience: []
